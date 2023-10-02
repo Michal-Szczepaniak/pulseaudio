@@ -92,7 +92,6 @@ export CXXFLAGS="$CXXFLAGS -mfpu=neon"
   -Djack=disabled \
   -Dlirc=disabled \
   -Dopenssl=disabled \
-  -Dsoxr=disabled \
   -Dtests=false \
   -Dwebrtc-aec=disabled \
   -Dx11=disabled
